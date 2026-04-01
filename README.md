@@ -2,6 +2,8 @@
 
 A high-performance **Squaremap** extension specifically designed for **Folia** servers to visualize threaded regions in real-time.
 
+![map](https://raw.githubusercontent.com/onurrrk/Pictures/refs/heads/main/Squaremap-Folia-Regions.jpg)
+
 ## 🚀 Key Features
 
 *   **Threaded Region Mapping:** Visually see how Folia splits your world into different threads (regions) on the map.
