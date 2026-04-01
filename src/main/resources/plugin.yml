@@ -1,0 +1,8 @@
+name: SquaremapFoliaRegions
+version: '${project.version}'
+main: com.map.Map
+api-version: '1.20'
+depend: [squaremap]
+folia-supported: true
+description: Shows Folia Thread regions on the squaremap.
+author: onur1692
