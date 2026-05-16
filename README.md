@@ -10,7 +10,6 @@ A high-performance **Squaremap** extension specifically designed for **Folia** s
 *   **Live Metrics (Popup):** Click on any region to see real-time data:
     *   **TPS & MSPT:** Individual performance monitoring for each thread.
     *   **Region Statistics:** Current chunk, player, and entity counts per region.
-*   **LiveAtlas Optimized:** Specifically coded to bypass cache issues in **LiveAtlas**, ensuring data updates every 10 seconds without refreshing the page.
 *   **Zero Performance Impact:** Built using optimized reflections and asynchronous schedulers to ensure your server TPS stays stable.
 *   **Dynamic Shape Engine:** Uses Convex Hull algorithms to draw the exact boundaries of active regions as they grow or merge.
 
