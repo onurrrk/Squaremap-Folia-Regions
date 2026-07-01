@@ -22,6 +22,6 @@ A high-performance **Squaremap** extension specifically designed for **Folia** s
 
 ## 📄 Requirements
 
-*   **Server Engine:** Folia (1.20.1 - 1.21.x)
+*   **Server Engine:** Folia (1.20.1 - 26.2.x)
 *   **Dependency:** Squaremap
 *   **Java Version:** Java 21+
