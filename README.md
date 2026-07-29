@@ -25,3 +25,6 @@ A high-performance **Squaremap** extension specifically designed for **Folia** s
 *   **Server Engine:** Folia (1.20.1 - ∞)
 *   **Dependency:** Squaremap
 *   **Java Version:** Java 21+
+
+[![Discord](https://cdn.modrinth.com/data/cached_images/4de86371cc7bcf3818924b198f31baacc304700f.png)
+](https://discord.gg/kj5grZuxyQ)
