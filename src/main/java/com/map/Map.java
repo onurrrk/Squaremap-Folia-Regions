@@ -9,6 +9,7 @@ import xyz.jpenilla.squaremap.api.*;
 import xyz.jpenilla.squaremap.api.marker.Marker;
 import xyz.jpenilla.squaremap.api.marker.MarkerOptions;
 import xyz.jpenilla.squaremap.api.marker.Polygon;
+import org.bstats.bukkit.Metrics;
 
 import java.awt.Color;
 import java.lang.reflect.Field;
@@ -23,6 +24,9 @@ public class Map extends JavaPlugin {
 
     @Override
     public void onEnable() {
+        int pluginId = 33067;
+        Metrics metrics = new Metrics(this, pluginId);
+        
         try {
             Class<?> trClass = Class.forName("io.papermc.paper.threadedregions.TickRegions");
             Method getShift = trClass.getMethod("getRegionChunkShift");
