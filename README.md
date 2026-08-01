@@ -26,5 +26,9 @@ A high-performance **Squaremap** extension specifically designed for **Folia** s
 *   **Dependency:** Squaremap
 *   **Java Version:** Java 21+
 
+## Statistics
+
+[![bStats](https://bstats.org/signatures/bukkit/squaremap%20folia%20regions.svg)](https://bstats.org/plugin/bukkit/Squaremap%20Folia%20Regions/33067)
+
 [![Discord](https://cdn.modrinth.com/data/cached_images/4de86371cc7bcf3818924b198f31baacc304700f.png)
 ](https://discord.gg/kj5grZuxyQ)
